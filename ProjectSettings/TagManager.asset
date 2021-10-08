@@ -4,19 +4,21 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - pickUp
-  - Hint
+  - Key
+  - InteractiveObject
+  - DoorButton
+  - Lock
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - ground
+  - 
   - Water
   - UI
   - 
   - 
-  - 
-  - 
+  - PostProcessing
+  - Interact
   - 
   - 
   - 
